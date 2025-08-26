@@ -58,22 +58,22 @@ Este repositório contém os notebooks, bases de dados e gráficos utilizados no
 ## 📸 Visualizações
 
 ### Exportações e Importações do Brasil com BRICS
-![Exportações e Importações](exportacoes_importacoes_Brasil.png)
+![Exportações e Importações](gráficos/exportacoes_importacoes_Brasil.png)
 
 ### PIB dos Países do BRICS
-![PIB dos BRICS](PIB_BRICS.png)
+![PIB dos BRICS](gráficos/PIB_BRICS.png)
 
 ### Tarifas Comerciais Médias
-![Tarifas](Tarifas_BRICS.png)
+![Tarifas](gráficos/Tarifas_BRICS.png)
 
 ### Taxa de Câmbio
-![Câmbio](Cambio_BRICS.png)
+![Câmbio](gráficos/Cambio_BRICS.png)
 
 ### Clusterização (K-Means)
-![Clusters](Cluster_BRICS.png)
+![Clusters](gráficos/Cluster_BRICS.png)
 
 ### Previsão do PIB (ARIMA – Brasil)
-![Previsão PIB Brasil](ARIMA.png)
+![Previsão PIB Brasil](gráficos/ARIMA.png)
 
 ---
 
