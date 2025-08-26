@@ -73,7 +73,7 @@ Este repositório contém os notebooks, bases de dados e gráficos utilizados no
 ![Clusters](gráficos/Cluster_BRICS.png)
 
 ### Previsão do PIB (ARIMA – Brasil)
-![Previsão PIB Brasil](gráficos/ARIMA.png)
+![Previsão PIB Brasil](gráficos/Arima.png)
 
 ---
 
